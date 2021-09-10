@@ -1,5 +1,5 @@
-# conditinal-statement-in-c-#include<stdio.h>
-int main()
+# conditinal-statement-in-c-
+#include<stdio.h>
     {
         int n;
         scanf("%d\n",&n);
